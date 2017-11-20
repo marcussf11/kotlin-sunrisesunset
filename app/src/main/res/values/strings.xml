@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinCitySunriseSunset</string>
+
+    <string name="getInfo">Get Info!</string>
+</resources>
